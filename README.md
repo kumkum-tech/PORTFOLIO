@@ -1,147 +1,47 @@
-# 🚀 Kumkum Rastogi - Portfolio Website
+# 🚀 Kumkum Rastogi | Portfolio
 
-A modern, responsive, and professional portfolio website showcasing my journey in **Data Analytics**, **Data Science**, **Artificial Intelligence**, and **Software Development**.
+Welcome to my personal portfolio! This website showcases my journey in **Data Analytics, Data Science, AI, and Web Development**. It highlights my skills, projects, certifications, and experience through a clean, responsive, and modern interface.
 
-Designed with a clean user interface and smooth user experience, this portfolio highlights my technical skills, projects, certifications, experience, and educational background while reflecting my passion for transforming data into actionable insights.
+## 🌐 Live Demo
 
----
+> *Add your deployed portfolio link here.*
 
-## 🌟 Features
+## 📂 Repository
 
-* Responsive design for all devices
-* Modern and professional UI/UX
-* Smooth scrolling navigation
-* Interactive project showcase
-* Skills and technology stack section
-* Experience and certification timeline
-* Resume download functionality
-* Contact section with social links
-* Clean and optimized code structure
+**GitHub:** https://github.com/kumkum-tech/PORTFOLIO
 
----
+## ✨ Features
 
-## 👨‍💻 About Me
-
-I am **Kumkum Rastogi**, a Computer Science Engineering student with a strong interest in:
-
-* Data Analytics
-* Data Science
-* Artificial Intelligence
-* Machine Learning
-* Full Stack Development
-
-I enjoy solving real-world problems through data-driven decision-making and building impactful technology solutions.
-
----
+* Responsive & Modern UI
+* About Me
+* Skills & Technologies
+* Featured Projects
+* Experience & Certifications
+* Resume Download
+* Contact Section
+* Smooth Navigation
 
 ## 🛠️ Tech Stack
-
-### Programming Languages
-
-* Python
-* Java
-* JavaScript
-* C++ (DSA Beginner)
-
-### Data Analytics & Data Science
-
-* Pandas
-* NumPy
-* Machine Learning
-* Statistics
-* Data Visualization
-* Exploratory Data Analysis (EDA)
-
-### Business Intelligence
-
-* Power BI
-* Excel
-* SQL
-
-### Web Development
 
 * HTML5
 * CSS3
 * JavaScript
-* React
-* Node.js
-* Express.js
-* Django
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-* Postman
-* Docker
-
----
 
 ## 🚀 Featured Projects
 
-### Sentiment Analysis App
-
-An NLP-based machine learning application that analyzes text and predicts sentiment in real time.
-
-**Technologies:** Python, NLP, Machine Learning, Streamlit
-
-### AI-Based Disaster Response System
-
-A data-driven solution for analyzing disaster information and supporting real-time decision-making.
-
-### Loan Approval Prediction System
-
-Machine learning model for predicting loan approval outcomes using applicant information.
-
-### Innovation Hub
-
-A full-stack platform built using React, Node.js, Express, and Docker.
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology (Computer Science Engineering)**
-Babu Banarasi Das University
-
----
-
-## 📜 Certifications
-
-* IBM SkillsBuild – Web Development Fundamentals
-* IEEE – Generative AI
-* Forge – Solution Architecture
-* Build with AI using GitHub
-* Mission Upskill India – AI Impact Summit 2026
-
----
-
-## 💼 Experience
-
-### Campus Ambassador Intern – AI Academia
-
-* Campus outreach and engagement
-* Event promotion and coordination
-* Leadership and communication development
-
----
+* 🧠 Sentiment Analysis App
+* 📊 Loan Approval Prediction
+* 🚨 AI-Based Disaster Response System
+* 💻 Innovation Hub
 
 ## 📬 Contact
 
-📧 Email: [kumkumrastogi706876@gmail.com](mailto:kumkumrastogi706876@gmail.com)
+📧 **Email:** [kumkumrastogi706876@gmail.com](mailto:kumkumrastogi706876@gmail.com)
 
-💻 GitHub: https://github.com/kumkum-tech
+💼 **LinkedIn:** https://www.linkedin.com/in/kumkum-rastogi-98849129a/
 
-💼 LinkedIn: Add your LinkedIn profile URL
-
-📍 Location: Lucknow, Uttar Pradesh, India
+💻 **GitHub:** https://github.com/kumkum-tech
 
 ---
 
-## 🔗 Connect With Me
-
-If you like this project, feel free to connect, collaborate, or provide feedback.
-
-⭐ Don't forget to star the repository if you found it helpful.
+⭐ If you enjoyed this project, consider giving the repository a star. Feedback and suggestions are always welcome!
