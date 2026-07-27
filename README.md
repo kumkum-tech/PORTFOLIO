@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website showcases my journey in **Data An
 
 ## 🌐 Live Demo
 
-> *Add your deployed portfolio link here.*
+> https://kumkumtech.vercel.app/
 
 ## 📂 Repository
 
